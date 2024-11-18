@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|c:\\users\\prati\\source\\repos\\productcategoryapp\\productcategoryapp\\views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|solutionrelative:productcategoryapp\\views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|c:\\users\\prati\\source\\repos\\productcategoryapp\\productcategoryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|solutionrelative:productcategoryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|c:\\users\\prati\\source\\repos\\productcategoryapp\\productcategoryapp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|solutionrelative:productcategoryapp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|c:\\users\\prati\\source\\repos\\productcategoryapp\\productcategoryapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|solutionrelative:productcategoryapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|c:\\users\\prati\\source\\repos\\productcategoryapp\\productcategoryapp\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|solutionrelative:productcategoryapp\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|c:\\users\\prati\\source\\repos\\productcategoryapp\\productcategoryapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|solutionrelative:productcategoryapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|c:\\users\\prati\\source\\repos\\productcategoryapp\\productcategoryapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|solutionrelative:productcategoryapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|c:\\users\\prati\\source\\repos\\productcategoryapp\\productcategoryapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|solutionrelative:productcategoryapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|c:\\users\\prati\\source\\repos\\productcategoryapp\\productcategoryapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|solutionrelative:productcategoryapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|c:\\users\\prati\\source\\repos\\productcategoryapp\\productcategoryapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|solutionrelative:productcategoryapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|c:\\users\\prati\\source\\repos\\productcategoryapp\\productcategoryapp\\derivedclasses\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|solutionrelative:productcategoryapp\\derivedclasses\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|c:\\users\\prati\\source\\repos\\productcategoryapp\\productcategoryapp\\contracts\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|solutionrelative:productcategoryapp\\contracts\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|c:\\users\\prati\\source\\repos\\productcategoryapp\\productcategoryapp\\dbcontext\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|solutionrelative:productcategoryapp\\dbcontext\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|c:\\users\\prati\\source\\repos\\productcategoryapp\\productcategoryapp\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|solutionrelative:productcategoryapp\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|c:\\users\\prati\\source\\repos\\productcategoryapp\\productcategoryapp\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|solutionrelative:productcategoryapp\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|c:\\users\\prati\\source\\repos\\productcategoryapp\\productcategoryapp\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5EE7CA-1A4E-452C-849B-57A6287DAD7F}|ProductCategoryApp\\ProductCategoryApp.csproj|solutionrelative:productcategoryapp\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProductCategoryApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProductCategoryApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T19:24:02.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProductCategoryApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProductCategoryApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T19:23:50.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Views\\Product\\Product.cshtml",
+              "RelativeDocumentMoniker": "ProductCategoryApp\\Views\\Product\\Product.cshtml",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Views\\Product\\Product.cshtml",
+              "RelativeToolTip": "ProductCategoryApp\\Views\\Product\\Product.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T19:13:34.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductCategoryApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProductCategoryApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T18:42:34.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductCategoryApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductCategoryApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:19:53.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductCategoryApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductCategoryApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T19:24:12.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCategoryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Program.cs",
+              "RelativeToolTip": "ProductCategoryApp\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwEoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:32:44.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductCategoryApp\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductCategoryApp\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:34:00.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Models\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "ProductCategoryApp\\Models\\ProductListViewModel.cs",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Models\\ProductListViewModel.cs",
+              "RelativeToolTip": "ProductCategoryApp\\Models\\ProductListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:40:03.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\DerivedClasses\\Product.cs",
+              "RelativeDocumentMoniker": "ProductCategoryApp\\DerivedClasses\\Product.cs",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\DerivedClasses\\Product.cs",
+              "RelativeToolTip": "ProductCategoryApp\\DerivedClasses\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:26:45.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Contracts\\IProduct.cs",
+              "RelativeDocumentMoniker": "ProductCategoryApp\\Contracts\\IProduct.cs",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Contracts\\IProduct.cs",
+              "RelativeToolTip": "ProductCategoryApp\\Contracts\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:22:30.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ProductCategoryApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ProductCategoryApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T19:24:05.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "ProductCategoryApp\\Models\\CategoryModel.cs",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "ProductCategoryApp\\Models\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:13:37.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ProductCategoryApp\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Entities\\Category.cs",
+              "RelativeToolTip": "ProductCategoryApp\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:34:27.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "ProductCategoryApp\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\Models\\ProductModel.cs",
+              "RelativeToolTip": "ProductCategoryApp\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:13:02.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\DBContext\\ProductContext.cs",
+              "RelativeDocumentMoniker": "ProductCategoryApp\\DBContext\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\prati\\source\\repos\\ProductCategoryApp\\ProductCategoryApp\\DBContext\\ProductContext.cs",
+              "RelativeToolTip": "ProductCategoryApp\\DBContext\\ProductContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:14:24.888Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
